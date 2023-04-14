@@ -16,6 +16,10 @@ Open source data from Kaggle on oil spills in the United States from 2010 to ear
 
 https://www.kaggle.com/datasets/usdot/pipeline-accidents
 
+I also used shape files for the state and county lines in my analysis. Those can be found here:
+
+https://eric.clst.org/tech/usgeojson/
+
 ## Tools
 For this project I used Excel,  Python, and Tableau. The following libraries/tools were employed within Python
 
@@ -26,3 +30,8 @@ For this project I used Excel,  Python, and Tableau. The following libraries/too
 - Matplotlib
 - Scipy
 - Seaborn
+
+## Dashboard
+Final dashboard was made using Tableau Public. The link to it can be found here:
+
+https://public.tableau.com/app/profile/david.byl/viz/FinalOilSpills/FinalDashboard?publish=yes
